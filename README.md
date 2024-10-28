@@ -1,6 +1,6 @@
-# Shopify - a simple eCommerce app
+# Market Hub -  eCommerce app
 
-Welcome to my E-commerce App! This project is a  e-commerce application built using React, Tailwind CSS, Vite, TypeScript, Mysql  and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms.
+Welcome to Market Hub E-commerce App! This project is a  e-commerce application built using React, Tailwind CSS, Vite, TypeScript, Mysql  and Redux Toolkit. It aims to showcase various features commonly found in e-commerce platforms.
 
 ## Features
 
