@@ -10,3 +10,5 @@ Welcome to my E-commerce App! This project is a  e-commerce application built us
 - **User Authentication:** Enable users to create accounts, log in, and access personalized features like wishlists and account settings.
 - **Wishlist:** Allow users to save products they're interested in for future reference.
 
+
+
